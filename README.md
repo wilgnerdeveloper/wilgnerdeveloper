@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wilgnerdeveloper
+- 👀 I’m interested in developing mobile applications using Flutter, creating simple solutions for everyday tasks, and automating processes. I'm also passionate about reading and gaming.
+- 🌱 I’m currently learning advanced Flutter techniques, UI/UX design principles, and exploring new libraries that can enhance my development process.
+- 💞️ I’m looking to collaborate on open-source Flutter projects, especially those focused on productivity tools, lifestyle apps, or gaming-related applications.
+- 📫 How to reach me: You can reach me via email at wilgnerdeveloper@gmail.com, connect with me on LinkedIn @wilgnerschuertz, or follow me on Twitter @wilgnerschuertz.
